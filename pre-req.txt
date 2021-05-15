@@ -1,0 +1,60 @@
+
+Data Structures and Algorithms
+-----------------------------------------------
+any programming lanuage
+basic mathematics needed for programming
+knowledge of computers
+
+
+Applied Probability and Statistics
+-------------------------------------------------
+
+permutational and combinational problems 
+Basics of Probability
+Calculus
+Event
+Sample space
+Basic knowledge of statistics
+
+
+Operating Systems and Networks
+------------------------------------------------
+
+knowledge of computer hardware and software
+knowledge of computers
+
+Software Engineering
+-------------------------------
+software development process
+awareness about software systems
+knowledge of computers
+
+Software Architecture
+--------------------------------------------------------------------------------
+Software Engineering
+knowledge of computers
+
+Design and Analysis of Algorithms
+--------------------------------------------------------------------------------
+Data Structures and Algorithms
+knowledge of computers
+
+Database Management Systems
+--------------------------------------------------------------------------------
+Data Structures and Algorithms
+knowledge of computers
+
+Advanced Database Management Systems
+--------------------------------------------------------------------------------
+Database Management Systems
+knowledge of computers
+
+Data Mining
+--------------------------------------------------------------------------------
+Database Management Systems
+knowledge of computers
+
+Software Metrics and Project Management
+-------------------------------
+Software Engineering
+knowledge of computers
